@@ -1,5 +1,8 @@
-# Django and MySQL Connection Setup
-
+# INFORMATION SYSTEMS ADMINISTRATION AND DEVELOPMENT
+## OPEN SOURCE TECHNOLOGIES IN WEB DEVELOPMENT
+## Django and MySQL Connection Setup
+![ttt](https://github.com/user-attachments/assets/783511ca-2644-4447-8646-ad41344f29a7)
+---
 ## 1. Install MySQL and PHP engine
 Make sure MySQL is installed on your server. You can install it using:
 ```python
@@ -77,4 +80,22 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
- 
+**My Contacts**
+
+**WhatsApp**  
++255675839840  
++255656848274
+
+**YouTube**  
+[Visit my YouTube Channel](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)
+
+**Telegram**  
++255656848274  
++255738144353
+
+**PlayStore**  
+[Visit my PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
+
+**GitHub**  
+[Visit my GitHub](https://github.com/shamiraty/)
+
